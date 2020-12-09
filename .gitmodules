@@ -3,7 +3,7 @@
 	url = https://github.com/makerdao/pymaker.git
 [submodule "lib/pyexchange"]
 	path = lib/pyexchange
-	url = https://github.com/makerdao/pyexchange.git
+	url = https://github.com/leverj/pyexchange.git
 [submodule "lib/gdax-client"]
 	path = lib/gdax-client
 	url = https://github.com/makerdao/gdax-client.git
